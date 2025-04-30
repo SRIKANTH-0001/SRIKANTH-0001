@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! I am a passionate Web Developer and Designer, constantly exploring new technologies and improving my skills. Here, you'll find various projects that showcase my journey and achievements.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepanshu-prajapati01/deepanshu-prajapati01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanshu-prajapati01/deepanshu-prajapati01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/deepanshu-prajapati01/deepanshu-prajapati01/output/github-snake.svg" />
+</picture>
+
 ## 🚀 About Me
 
 - 🌱 Currently honing my skills in **HTML**, **CSS**, and **JavaScript**.
