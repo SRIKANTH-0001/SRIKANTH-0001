@@ -107,7 +107,7 @@ Developed a responsive website for a college debugging event, providing particip
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+* 💼 LinkedIn: https://www.linkedin.com/in/srikanth--k
 * 💻 GitHub: https://github.com/SRIKANTH-0001
 * 📧 Email: [2005srikanth2@gmail.com](mailto:2005srikanth2@gmail.com)
 
