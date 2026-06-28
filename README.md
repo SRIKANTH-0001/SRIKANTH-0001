@@ -1,67 +1,118 @@
-# 👋 Hello, I'm Srikanth!
+# 👋 Hi, I'm Srikanth K
 
-Welcome to my GitHub profile! I am a passionate Web Developer and Designer, constantly exploring new technologies and improving my skills. Here, you'll find various projects that showcase my journey and achievements.
+### Full Stack Developer | MERN Stack | Java | Problem Solver
+
+I'm a Full Stack Developer with hands-on experience in building and deploying scalable web applications using the **MERN Stack**. I enjoy transforming ideas into user-focused solutions through clean, maintainable code and modern development practices.
+
+My interests include full-stack development, backend engineering, REST API development, and building applications that solve real-world problems.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepanshu-prajapati01/deepanshu-prajapati01/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanshu-prajapati01/deepanshu-prajapati01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/deepanshu-prajapati01/deepanshu-prajapati01/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/deepanshu-prajapati01/deepanshu-prajapati01/output/github-snake.svg" />
 </picture>
-
-## 🚀 About Me
-
-- 🌱 Currently honing my skills in **HTML**, **CSS**, and **JavaScript**.
-- 🎓 Completed a **Digital Marketing Fundamentals** course at IID.
-- 🏆 Achieved multiple internship roles in **Web Development** and **Design**.
-- 👨‍💻 Regularly solving problems on **LeetCode** (59 problems over 50 days!).
-- 📚 Deeply interested in **Artificial Intelligence**, as reflected by my **SimplyLearn** certification.
-- 🎉 Member of **Google Developers Groups**.
-
-## 💼 Work Experience
-
-- **Web Development Intern** at **LetsGrowMore**
-- **Web Development and Design Intern** at **Oasis Infobyte**
-- **Web Development Intern** at **CodeTech IT Solutions**
-- **Web Development Intern** at **Oasis InfoByte**
-
-## 🛠 Projects
-
-### 🎨 [Travel.com Landing Page](https://github.com/yourusername/travel.com)
-A fully responsive landing page for a travel website, created during my internship at Oasis Infobyte.
-
-### 📄 [Portfolio](https://github.com/yourusername/portfolio)
-My personal portfolio showcasing my skills and projects. Built with HTML, CSS, and JavaScript.
-
-### 📝 [Amazon Project](https://github.com/yourusername/amazon-project)
-A clone of Amazon's website, focusing on frontend design and user experience. Completed during my internship at CodeTech IT Solutions.
-
-### 🎮 [Rock-Paper-Scissors Game](https://github.com/yourusername/rock-paper-scissors)
-An interactive Rock-Paper-Scissors game with a fun UI, built using HTML, CSS, and JavaScript.
-
-## 📝 Latest Blog Posts
-
-- [My Journey with Oasis Infobyte](https://yourblog.com/oasis-infobyte-journey) - Featuring the travel.com landing page, portfolio, and temperature converter projects.
-- [Frontend Development Tips](https://yourblog.com/frontend-tips) - Sharing my knowledge and experiences in frontend development.
-
-## 📫 How to Reach Me
-
-- **LinkedIn**: [Srikanth](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Email**: your.email@example.com
-
-## 🎯 Goals for 2024
-
-- Complete more challenging projects and enhance my coding skills.
-- Achieve a 100-day coding streak on LeetCode.
-- Contribute to open-source projects and collaborate with other developers.
-
-## ✨ Fun Facts
-
-- I love adding animations to my projects, like the heart symbol animation in my to-do list project.
-- I'm a big fan of using emojis to make my content more engaging. 🚀✨
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate. Let's build something amazing together! 😃
 
 ---
 
-*This README was generated with ❤️ by [Srikanth](https://github.com/yourusername).*
+## 🚀 About Me
+
+* 💻 Full Stack Developer specializing in the MERN Stack.
+* 🌱 Currently learning Java Full Stack Development and strengthening backend development skills.
+* 🚀 Built and deployed multiple full-stack web applications.
+* 🧩 Solved 100+ coding problems to improve problem-solving and DSA fundamentals.
+* 🎤 Presented a MERN-based research project at the International Conference (ICNTSETM'26).
+* 🤝 Passionate about continuous learning, collaboration, and building impactful software.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+* Java
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+**Frontend**
+
+* React.js
+* Tailwind CSS
+
+**Backend**
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+
+**Database**
+
+* MongoDB
+* SQL
+
+**Tools & Platforms**
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Render
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 Prescripto – Doctor Appointment Booking System
+
+A full-stack MERN application that enables users to browse doctors, filter by specialty, and book appointments through an intuitive interface.
+
+**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB
+
+---
+
+### 🎓 MERN E-Learning Platform
+
+A role-based learning management system featuring course management, authentication, quizzes, progress tracking, and certificate generation.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT Authentication
+
+---
+
+### 📺 YouTube Clone
+
+A responsive YouTube-inspired application built with React.js that integrates the YouTube Data API to display real-time video content.
+
+**Tech Stack:** React.js, JavaScript, YouTube Data API
+
+---
+
+### 🐞 Debugging Challenge Website
+
+Developed a responsive website for a college debugging event, providing participants with event details and direct access to HackerRank coding contests.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+## 🏆 Achievements
+
+* Solved **100+** coding problems on LeetCode.
+* Presented a technical paper at **ICNTSETM'26**.
+* Built and deployed real-world full-stack applications.
+* Developed a web platform for a college technical symposium.
+* Served as a Student Representative, demonstrating leadership and collaboration skills.
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+* 💻 GitHub: https://github.com/SRIKANTH-0001
+* 📧 Email: [2005srikanth2@gmail.com](mailto:2005srikanth2@gmail.com)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories, share feedback, or connect if you'd like to collaborate on exciting projects.
